@@ -1,0 +1,6 @@
+/build/
+/.devenv/
+/.direnv/
+/.clj-kondo/
+/.vscode/
+/.lsp/
